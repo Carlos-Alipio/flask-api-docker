@@ -3,4 +3,4 @@ services:
   flask-api:
     build: .
     ports:
-      - "5001:5001"
+      - "80:5001"
